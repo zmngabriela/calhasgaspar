@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+    --font-family: "Hanken Grotesk", serif;
+
+    --color-background: rgb(245, 245, 555);
+    --color-detail: rgb(67, 119, 67);
+    
+    --breakpoint-xs: 30rem
+}
+
+@layer base {
+    body,
+    a,
+    button,
+    input,
+    textarea,
+    select {
+        text-decoration: none;
+        background-color: rgb(245, 245, 245);
+    }
+
+    input,
+    textarea,
+    select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        outline: none;
+    }
+}
+
+@layer utilities {
+    .container {
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .bg-effect {
+        background: 
+            radial-gradient(circle at 50% 400px, rgba(67, 119, 67, 0.2), transparent 70%), 
+            radial-gradient(circle, rgba(67, 119, 67, 0.05), transparent 50%);
+        background-repeat: no-repeat;
+        background-size: 100% 50%, 100% 100%;
+        background-position: top, center;
+    }
+}
