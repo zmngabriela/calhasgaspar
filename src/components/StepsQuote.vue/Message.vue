@@ -18,7 +18,7 @@
             id="message"
             :value="props.message"
             placeholder="Escreva aqui"
-            class="w-[100%] lg:w-auto h-[160px] px-5 py-4 border-2 rounded-4xl resize-none"
+            class="w-[90%] lg:w-auto h-[160px] px-5 py-4 border-2 rounded-4xl resize-none"
             @input="emit('update:message', $event.target.value)"
         ></textarea>
         <div class="flex gap-5">

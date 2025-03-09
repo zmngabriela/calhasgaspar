@@ -1,6 +1,6 @@
 <template>
-    <section class="h-[60vh] flex flex-col gap-10">
-        <div class="w-full flex flex-col justify-center items-center text-center">
+    <section class="h-[60vh] flex flex-col gap-20">
+        <div class="w-[90%] mx-auto flex flex-col justify-center items-center text-center">
             <p><strong>Fundada em Gaspar, Santa Catarina</strong></p>
             <p class="italic">Por muitos anos estivemos atendendo em Brusque e região.</p>
             <p>Agora disponivel também na cidade de Navegantes</p>
