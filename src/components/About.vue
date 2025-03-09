@@ -31,7 +31,7 @@
         id="services"
     >
         <h2 class="w-[80%] text-xl">
-            A gente cuida do trabalho pesado, seja para sua casa, empresa ou estabelecimento, <br> para que você tenha sempre <span class="italic">segurança e tranquilidade.</span>
+            Cuidamos do trabalho pesado, seja para sua casa, empresa ou estabelecimento, <br> para que você tenha sempre <span class="italic">segurança e tranquilidade.</span>
         </h2>
         <div class="relative scroller w-full overflow-hidden">
             <ul

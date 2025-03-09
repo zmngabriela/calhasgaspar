@@ -3,7 +3,7 @@
         <div class="w-[90%] mx-auto flex flex-col justify-center items-center text-center">
             <p><strong>Fundada em Gaspar, Santa Catarina</strong></p>
             <p class="italic">Por muitos anos estivemos atendendo em Brusque e região.</p>
-            <p>Agora disponivel também na cidade de Navegantes</p>
+            <p>Agora disponivel também na cidade de Navegantes.</p>
         </div>
         <div class="w-full h-[40vh] flex flex-col md:flex-row items-center justify-center pb-[40px] gap-5">
             <iframe 
