@@ -18,10 +18,9 @@
       </nav>
       <div class="inline-flex items-center justify-center gap-5">
         <div>
-          <button
-            href="tel:+55999797075"
-            target="_blank"
-            class="flex items-center justify-center gap-2 text-sm bg-transparent cursor-pointer"
+          <a
+            href="tel:+5547999797075"
+            class="flex items-center justify-center gap-2 text-sm cursor-pointer"
           >
             <img
               src="../assets/icons/telephone.png"
@@ -29,7 +28,7 @@
               class="size-[15px]"
             />
             <p class="hidden md:block hover:scale-[1.01] cursor-pointer">+55 47 99979 7075</p>
-          </button>
+          </a>
         </div>
       </div>
     </div>
