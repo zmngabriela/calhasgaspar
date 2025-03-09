@@ -20,7 +20,7 @@
         <div>
           <a
             href="tel:+5547999797075"
-            class="flex items-center justify-center gap-2 text-sm cursor-pointer"
+            class="flex items-center justify-center gap-2 text-sm bg-transparent cursor-pointer"
           >
             <img
               src="../assets/icons/telephone.png"
