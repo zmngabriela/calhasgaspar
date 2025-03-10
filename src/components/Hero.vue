@@ -12,7 +12,7 @@
             <h2 class="text-4xl md:text-5xl lg:text-6xl">Calhas e rufos de alumínio com qualidade garantida.</h2>
             <a
                 href="#contact"
-                class="p-3 text-base border-2 border-black hover:scale-[1.01] cursor-pointer bg-background"
+                class="p-3 text-base border-2 border-black hover:scale-[1.01] cursor-pointer bg-white"
             >
                 Solicite um orçamento
             </a>
