@@ -1,5 +1,5 @@
 <template>
-  <header class="mt-[-56px] w-full flex items-center bg-radial from-detail/10 to black/100 py-5">
+  <header class="absolute top-0 w-full py-7 flex items-center bg-transparent">
     <div class="flex items-center justify-between container">
       <h1 class="text-xl uppercase">Calinho Calhas</h1>
       <nav class="hidden sm:flex">
