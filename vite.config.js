@@ -8,4 +8,10 @@ export default defineConfig({
     vue(),
     tailwindcss()
   ],
+  base: process.env.NODE_ENV === 'production' ? '/calhas-gaspar/' : '/',
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+    sourcemap: false
+  }
 })
