@@ -17,11 +17,6 @@
                 <ul class="flex flex-col gap-2">
                     <li>
                         <a href="tel:+5547999797075" class="inline-flex align-center gap-2 bg-transparent">
-                            <img
-                                class="size-[15px]"
-                                src="../assets/icons/telephone.png"
-                                alt="Ícone de Telefone"
-                            />
                             <p>+55 47 99979 7075</p>
                         </a>
                     </li>
