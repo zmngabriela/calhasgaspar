@@ -30,11 +30,11 @@ onMounted(() => {
     class="h-[160vh] md:h-[100vh] lg:h-[80vh] flex flex-col text-center justify-center items-center gap-2"
     id="services"
   >
-    <h2 class="w-[80%] text-xl">
+    <h2 class="w-[80%] text-xl mb-5">
       Prestação de serviços seja para sua casa, empresa ou estabelecimento, <br /> para que você tenha sempre
       <span class="italic">segurança e tranquilidade.</span>
     </h2>
-    <div class="relative scroller w-full overflow-hidden">
+    <!-- <div class="relative scroller w-full overflow-hidden">
       <ul class="flex items-center gap-[100px] my-16 scroller__inner">
         <li class="w-[150px] overflow-hidden">
           <img src="../assets/images/calha.jpg" alt="" class="w-full grayscale hover:scale-101" />
@@ -55,8 +55,8 @@ onMounted(() => {
           <img src="../assets/images/casa.jpg" alt="" class="w-full grayscale hover:scale-101" />
         </li>
       </ul>
-    </div>
-    <div class="w-[80%] grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-start">
+    </div> -->
+    <div class="w-[80%] grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-start mt-5">
       <div class="flex flex-col gap-2">
         <img src="../assets/icons/calha.png" alt="" class="size-[35px]" />
         <p class="font-extralight"><strong>Calhas de alumínio</strong> de qualidade, para diferenetes tipos telhados e construções.</p>
