@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <footer class="w-full py-[116px] bg-radial from-detail/20 to-white">
+    <footer class="w-full py-[116px] bg-radial from-zinc-300/40 to-white">
         <div class="container justify-start xs:justify-evenly gap-10 flex-wrap">
             <div class="w-full xs:w-[185px]">
                 <p class="font-bold">Gaspar</p>
