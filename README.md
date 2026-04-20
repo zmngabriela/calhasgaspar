@@ -1,30 +1,35 @@
-# Calinho Calhas - Frontend Project
+# Calhas Gaspar
 
-This project is a website developed for "Calinho Calhas", a company specialized in aluminum gutters, flashing, PVC and aluminum pipes, chains, and accessories for roof construction and maintenance. The goal is to offer an interactive and personalized experience for customers to request quotes.
+Frontend project developed for a company specialized in aluminum gutters, flashing, pipes, chains, and roof accessories. The website was designed to present services clearly and make quote requests easier through a more practical digital experience.
 
-## 🚀 Technologies Used
+## Overview
 
-- **Vue.js** (with Composition API)
-- **TailwindCSS** (for fast and responsive styling)
-- **JavaScript** (for DOM interaction and animations)
-- **HTML** (page structure)
-- **CSS** (custom styles and animations)
+This project focuses on usability, responsiveness, and direct communication with potential customers. One of the main goals was to create a smooth experience for users looking for service information and fast contact.
 
-## 📝 Description
+## Tech Stack
 
-The project consists of several sections that provide intuitive and efficient navigation for users. The website includes the following features:
+- Vue.js
+- JavaScript
+- Tailwind CSS
+- HTML
+- CSS
 
-1. **Carousel Animation**: Displays a sequence of images showcasing the services offered by the company. The images are animated continuously, creating a dynamic visual experience.
-   
-2. **Quote Request Form**: An interactive multi-step form that collects customer information, such as services of interest, required measurements, and contact details.
+## Features
 
-3. **Responsiveness**: The website is designed to be fully responsive, ensuring a good experience on both mobile devices and desktops.
+- Responsive layout for desktop and mobile
+- Image carousel highlighting services
+- Multi-step quote request form
+- WhatsApp integration for faster contact
+- Smooth transitions and visual interactions
 
-4. **Animations and Visual Effects**: The website features smooth animations for slide transitions and interactions with elements, providing a pleasant user experience.
+## Purpose
 
-5. **WhatsApp Integration**: At the end of the form, the data is formatted and sent via WhatsApp to the company's contact number, making communication and quote requests faster and easier.
+The project was built to combine clear service presentation with a practical lead-generation flow, making it easier for customers to request quotes and contact the business.
 
-## 📦 Installation
+## Run Locally
 
-1. **Clone the repository:**
-   git clone https://github.com/your-username/calinkalhas-frontend.git
+```bash
+git clone https://github.com/zmngabriela/calhasgaspar.git
+cd calhasgaspar
+npm install
+npm run dev
